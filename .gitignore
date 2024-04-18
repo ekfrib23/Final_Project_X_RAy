@@ -1,3 +1,12 @@
+# files ending in ~
+**/*~
+
+# .DS_Store
+**/.DS_Store
+
+# Jupyter Checkpoints
+**/.ipynb_checkpoints
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
