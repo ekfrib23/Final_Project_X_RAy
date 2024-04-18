@@ -3,7 +3,7 @@
 Team Members:  Ryan Busman, Elaine Kwan, Deb Peters, Nick Watkins
 
 <p align="center">
-  <img src="Images/Cover_Pres" alt="Cover_Image">
+  <img src="Images/Cover_Pres.png" alt="Cover_Image">
 </p>
 
 # Table of Contents
