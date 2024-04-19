@@ -2,7 +2,9 @@
 ----
 Team Members:  Ryan Busman, Elaine Kwan, Deb Peters, Nick Watkins
 
-![Placeholder - Presentation_Cover_Image](<Presentation/Images/insert_file_name_here.png>)
+<p align="center">
+  <img src="Images/Cover_Pres.png" alt="Cover_Image">
+</p>
 
 # Table of Contents
 
@@ -24,7 +26,7 @@ In the wake of the COVID-19 pandemic, a surge in air travel has swept the globe,
 *Figure 1: Passenger load factor (PLF) reflects the utilization of an airline's passenger capacity. As of late 2023, PLF had surged back to nearly pre-pandemic levels across all regions, as revealed by IATA's research.*   
 
 
-Safeguarding this aviation ecosystem is the mandate of the United States of America's Transportation Security Administration (TSA). Each day, TSA personnel screens approximately 2 million passengers at 440 airports nationwide (TSA, 2022). Every carry-on bag undergoes inspection, totaling 3.3 million screenings daily (TSA, 2024). 
+Safeguarding this aviation ecosystem is the mandate of the United States of America's Transportation Security Administration (TSA). Each day, TSA personnel screen approximately 2 million passengers at 440 airports nationwide (TSA, 2022). Every carry-on bag undergoes inspection, totaling 3.3 million screenings daily (TSA, 2024). 
 
 While the scale of TSA operations is undeniably impressive, the agency is not resting on its laurels. Acknowledging the imperatives of efficiency and accuracy, the TSA is pioneering innovative solutions to streamline the security screening process:
 
@@ -70,7 +72,7 @@ At the project's culmination, a dynamic web interface will emerge, empowering se
 
 * **Goal 1:  Improve Screening Accuracy**
 
-    Improve accuracy of dangerous object detection in airline passenger baggage.   
+    Improve accuracy of dangerous object detection in carry-on passenger bags.   
 
 
 * **Goal 2:  An Intuitive Screening Interface**  
