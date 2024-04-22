@@ -185,7 +185,16 @@ The Jupyter notebooks will need to be opened and ran in the following order:
 * pickle2png
 * Implementation
 
-![image](https://github.com/Rbusman/Thriving_Skies/assets/146746454/3d84a054-3c06-43cf-b7a5-7b9289822ab9)
+The user chooses from one of 678 test images selected from the data set.
+User chooses an image number.
+The model predicts if the image is benigh (harmless), a gun, a knife, a razorblade or a shuriken (throwing star.)
+![image](https://github.com/Rbusman/Thriving_Skies/assets/146746454/5f80a050-99fb-4f2e-a8d5-ced69d7fcd79)
+
+![image](https://github.com/Rbusman/Thriving_Skies/assets/146746454/73197d66-3254-40f2-ad36-9117f5b7e61c)
+
+![image](https://github.com/Rbusman/Thriving_Skies/assets/146746454/016e36b7-7dd8-425c-9713-9fd6ec8b6d48)
+
+![image](https://github.com/Rbusman/Thriving_Skies/assets/146746454/628d0b31-2148-4186-8216-31ff68fd5d68)
 
 
 
