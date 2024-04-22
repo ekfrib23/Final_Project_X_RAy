@@ -185,7 +185,9 @@ The Jupyter notebooks will need to be opened and ran in the following order:
 * pickle2png
 * Implementation
 
-* ![image](https://github.com/Rbusman/Thriving_Skies/assets/146746454/55509b4e-679d-48c9-bf16-3ad4386eaf3d)
+![image](https://github.com/Rbusman/Thriving_Skies/assets/146746454/3d84a054-3c06-43cf-b7a5-7b9289822ab9)
+
+
 
 
 
