@@ -78,6 +78,7 @@ At the project's culmination, a dynamic web interface will emerge, empowering se
 * **Goal 2:  An Intuitive Screening Interface**  
 
     Create a web-based interactive tool that can be used to assess the likelihood of a dangerous object in baggage
+  
 
 ## Audience
 ----
@@ -103,7 +104,7 @@ At the project's culmination, a dynamic web interface will emerge, empowering se
 * __Data Characteristics__: 
     - 21,100 X-ray images organized into 5 groups.  Each group has several series.  
     - Images are saved as Portable Network Graphics (png) 8 -bit grayscale format. 
-    - "Additional metadata for each series (such as description of the objects, parameters and description of X-ray imaging system, etc.) are given in an ASCII file called Xssss readme.txt included in sub-folder Xssss, e.g., C0003 readme.txt for series Castings/C0003." (Mery et al., 2015, pg. 4) 
+    - "Additional metadata for each series (such as description of the objects, parameters and description of X-ray imaging system, etc.) are given in an ASCII file called Xssss readme.txt included in sub-folder Xssss, e.g., C0003 readme.txt for series Castings/C0003." (Mery et al., 2015, pg. 4)   
 
 <p align="center">
   <img src="Images/Subsets.png" alt="Subsets_with_series">
@@ -122,8 +123,8 @@ At the project's culmination, a dynamic web interface will emerge, empowering se
 # About the Data Analysis
 ----
 ## Data Collection
-* Gather a large dataset of  X-ray images containing both normal and prohibited items (such as  weapons, explosives, and sharp objects).
-* Annotate the images to label  the presence or absence of prohibited items.
+* Gather a large dataset of X-ray images containing both normal and prohibited items (such as  weapons, explosives, and sharp objects).
+* Annotate the images to label the presence or absence of prohibited items.
 
 
 ## Preprocessing
@@ -132,8 +133,6 @@ At the project's culmination, a dynamic web interface will emerge, empowering se
 ![image](https://github.com/Rbusman/Thriving_Skies/assets/146746454/00813637-a9ca-48f1-804c-fae06003c99c)
 
 ![image](https://github.com/Rbusman/Thriving_Skies/assets/146746454/23f3b9b4-ad67-474c-9e3e-a9851dd0307c)
-
-
 
  
 
