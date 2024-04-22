@@ -129,6 +129,11 @@ At the project's culmination, a dynamic web interface will emerge, empowering se
 ## Preprocessing
 * Clean and preprocess the X-ray  images to enhance their quality.
 * Normalize pixel values and  resize images to a consistent resolution.
+![image](https://github.com/Rbusman/Thriving_Skies/assets/146746454/00813637-a9ca-48f1-804c-fae06003c99c)
+
+![image](https://github.com/Rbusman/Thriving_Skies/assets/146746454/23f3b9b4-ad67-474c-9e3e-a9851dd0307c)
+
+
 
  
 
