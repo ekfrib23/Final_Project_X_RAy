@@ -172,7 +172,7 @@ At the project's culmination, a dynamic web interface will emerge, empowering se
 
 * Fine-tune the model based on evaluation results.
 * Address false positives and false negatives.
-  ![image](https://github.com/Rbusman/Thriving_Skies/assets/146746454/85faeff3-a504-44b7-9c49-afdf7f8353ab)
+
 
 
 ## Model Implementation
