@@ -8,7 +8,7 @@ Team Members:  Ryan Busman, Elaine Kwan, Deb Peters, Nick Watkins
 
 # Table of Contents
 
-Click on any of the below to take you to the desired subsection or your choice. 
+Click on any of the titles below to take you to the desired subsection or your choice. 
 
 * [**Overview**](#Overview)  
 * [**Project Purpose and Goals**](#Project-Purpose-and-Goals) 
@@ -87,7 +87,7 @@ At the project's culmination, a dynamic web interface will emerge, empowering se
 
 * **Airport Authorities**: Officials overseeing airport operations, security protocols, and infrastructure development.
 
-* **Security Equipment Manufacturers**: Companies involved in the design, development, and production of security screening equipment and technologies.
+* **Security Equipment Manufacturers**: Companies involved in the research, design, development, and production of security screening equipment and technologies.
 
 * **Aviation Industry Associations**: Organizations representing various stakeholders in the aviation sector, such as the International Air Transport Association (IATA) and Airports Council International (ACI).
 
@@ -153,10 +153,17 @@ At the project's culmination, a dynamic web interface will emerge, empowering se
 
 ## Fine-Tuning:
 
-* Fine-tune the model based on  evaluation results.
-* Address false positives and  false negatives.
+* Fine-tune the model based on evaluation results.
+* Address false positives and false negatives.
 
 ## Model Implementation
+
+The Jupyter notebooks will need to be opened and ran in the following order:
+* Data_Augmentation
+* Data_Cleaning_Preprocessing
+* Implementation
+* Modeling
+* pickle2png
 
 ## Github Directory Structure
 ---
