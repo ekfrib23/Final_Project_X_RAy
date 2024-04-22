@@ -159,11 +159,13 @@ At the project's culmination, a dynamic web interface will emerge, empowering se
 ## Model Implementation
 
 The Jupyter notebooks will need to be opened and ran in the following order:
-* Data_Augmentation
+
 * Data_Cleaning_Preprocessing
-* Implementation
+* Data_Augmentation
 * Modeling
 * pickle2png
+* Implementation
+
 
 ## Github Directory Structure
 ---
