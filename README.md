@@ -98,6 +98,8 @@ At the project's culmination, a dynamic web interface will emerge, empowering se
 * __Organization__: Pontificia Universidad Catolica de Chile - Department of Computer Science - The GRIMA Machine Intelligence Group
 * __Database Name__:  GDXray+ (or the GRIMA X-ray database)  
 * __Data Access__:  https://domingomery.ing.puc.cl/material/gdxray/
+* ![image](https://github.com/Rbusman/Thriving_Skies/assets/146746454/a14c8e1d-2a4a-4ce1-931c-b3a14d9fdc0d)
+
 * __Data Characteristics__: 
     - 21,100 X-ray images organized into 5 groups.  Each group has several series.  
     - Images are saved as Portable Network Graphics (png) 8 -bit grayscale format. 
