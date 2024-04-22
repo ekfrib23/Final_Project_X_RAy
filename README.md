@@ -144,24 +144,36 @@ At the project's culmination, a dynamic web interface will emerge, empowering se
 ## Model Architecture 
 * Design a custom model or work  with a pre-trained model.
 * Add layers for object  detection and classification.
+* ![image](https://github.com/Rbusman/Thriving_Skies/assets/146746454/e3eb0a75-ad69-4ee4-bfdc-cfbe04fb7342)
+
 
 ## Data Augmentation 
 * Augment the dataset by  applying transformations (rotation, scaling, etc.) to create additional  training samples
+![image](https://github.com/Rbusman/Thriving_Skies/assets/146746454/75e15589-8256-4fe5-93ba-d5388e99cf66)
 
 ## Training 
 * Split the dataset into  training, validation, and test sets.
 * Train the model using the  annotated X-ray images.
 * Optimize hyperparameters  (learning rate, batch size, etc.).
+  ![image](https://github.com/Rbusman/Thriving_Skies/assets/146746454/7d387c06-5ad6-47fa-a007-5c9c30c0ae12)
+
+![image](https://github.com/Rbusman/Thriving_Skies/assets/146746454/1f2703ac-5d0f-438d-8e69-c5f98c5ec8a2)
+
 
 ## Evaluation
 
 * Evaluate the model’s  performance on the validation and test sets.
-* Metrics could include  precision, recall, F1-score, and accuracy.  Test for bias.  
+* Metrics could include  precision, recall, F1-score, and accuracy.  Test for bias.
+
+* ![image](https://github.com/Rbusman/Thriving_Skies/assets/146746454/2c8174cb-33e8-442c-b853-b64330ae9592)
+
 
 ## Fine-Tuning:
 
 * Fine-tune the model based on evaluation results.
 * Address false positives and false negatives.
+  ![image](https://github.com/Rbusman/Thriving_Skies/assets/146746454/85faeff3-a504-44b7-9c49-afdf7f8353ab)
+
 
 ## Model Implementation
 
@@ -172,6 +184,9 @@ The Jupyter notebooks will need to be opened and ran in the following order:
 * Modeling
 * pickle2png
 * Implementation
+
+* ![image](https://github.com/Rbusman/Thriving_Skies/assets/146746454/55509b4e-679d-48c9-bf16-3ad4386eaf3d)
+
 
 
 ## Github Directory Structure
